@@ -27,7 +27,7 @@ O projeto evoluiu de um protótipo funcional para uma aplicação Full-Stack rob
 * **Sincronização Atômica:** Aprendi a estruturar o Firestore com Security Rules avançadas para garantir que cada usuário acesse apenas seus próprios designs.
 * **Arquitetura de IA:** Integrei o Agente de Suporte que reduz a curva de aprendizado do usuário, respondendo dúvidas técnicas sobre formatos de exportação (SVG vs PNG).
 
-![Figura 2: Detalhes da interface de branding e widget de suporte IA.](https://raw.githubusercontent.com/slxshhh/scanly/main/public/demo_details.png)
+![Figura 2: Detalhes da interface de branding e widget de suporte IA.](projeto-do-clone-ao-produto-minimo-viavel-mvp/images/agente-ia.png)
 *Figura 2: Análise da interface do Asset Vault e integração com Branding.*
 
 ## 🔧 Como Executar
@@ -36,7 +36,8 @@ O projeto evoluiu de um protótipo funcional para uma aplicação Full-Stack rob
 3. Configure as variáveis de ambiente em um arquivo `.env`.
 4. Inicie o estúdio: `npm run dev`.
 
-![Figura 3: Pipeline de dados e integração entre Frontend, Firebase e Gemini.](https://raw.githubusercontent.com/slxshhh/scanly/main/public/demo_flow.png)
+![Figura 3: Pipeline de dados e integração entre Frontend, Firebase e Gemini.](projeto-do-clone-ao-produto-minimo-viavel-mvp/images/cloud.png
+)
 *Figura 3: Representação visual do fluxo de dados e comunicação entre serviços.*
 
 ---
