@@ -11,7 +11,7 @@ O **Scanly Studio** é uma plataforma de design de QR Codes de alto nível, dese
 
 Diferente de geradores comuns, o Scanly utiliza um pipeline de renderização vetorial avançado e integração profunda com o ecossistema **Firebase**, permitindo que marcas gerenciem seus ativos (Asset Vault) com segurança e escala, utilizando o **Google Gemini API** para suporte contextual e otimização de escaneabilidade.
 
-![Figura 1: Dashboard principal do Scanly Studio exibindo a interface de design e preview em tempo real.](https://raw.githubusercontent.com/slxshhh/scanly/main/public/demo_hero.png)
+![Figura 1: Dashboard principal do Scanly Studio exibindo a interface de design e preview em tempo real.](images/tela-principal.png)
 *Figura 1: Dashboard principal do sistema exibindo ferramentas de customização e preview em tempo real.*
 
 ## 🚀 Tecnologias Utilizadas
